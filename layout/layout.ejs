@@ -1,8 +1,18 @@
 <!DOCTYPE html>
 <html>
+<%- partial('_partial/head') %>
 <body>
   <div id="container">
-    <%- body %>
+    <div id="wrap">
+      <%- partial('_partial/header', null, {cache: !config.relative_link}) %>
+      <div class="outer">
+        <section id="main"><%- body %></section>
+        <%- partial('_partial/sidebar', null, {cache: !config.relative_link}) %>
+      </div>
+      <%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
+    </div>
+    <%- partial('_partial/mobile-nav', null, {cache: !config.relative_link}) %>
+    <%- partial('_partial/after-footer') %>
   </div>
 </body>
 </html>

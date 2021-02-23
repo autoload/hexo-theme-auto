@@ -4,6 +4,7 @@ menu:
   Archives: /archives
   Category: /categories
   Tag: /tags
+  About: /about
 rss: /atom.xml
 banner: "images/banner.jpg"
 

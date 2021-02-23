@@ -2,6 +2,8 @@
 menu:
   Home: /
   Archives: /archives
+  Category: /categories
+  Tag: /tags
 rss: /atom.xml
 banner: "images/banner.jpg"
 

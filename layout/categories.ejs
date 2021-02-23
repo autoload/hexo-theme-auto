@@ -1,0 +1,8 @@
+<section class="outer">
+  <% if (site.categories.length){ %>
+    <h1 class="page-type-title"><%= __('categories') %></h1>
+    <div class="categories-box">
+      <%- list_categories() %>
+    </div>
+  <% } %>
+</section>

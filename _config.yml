@@ -2,11 +2,11 @@
 menu:
   Home: /
   Archives: /archives
-  Category: /categories
-  Tag: /tags
+  Categories: /categories
+  Tags: /tags
   About: /about
 rss: /atom.xml
-banner: "images/banner.jpg"
+banner: "images/banner_market.jpg"
 
 # Content
 excerpt_link: Read More

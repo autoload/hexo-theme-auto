@@ -1,4 +1,4 @@
-# Header
+# Menu-Sidebar
 menu:
   Home: /
   Archives: /archives
@@ -6,7 +6,7 @@ menu:
   Tags: /tags
   About: /about
 rss: /atom.xml
-banner: "images/banner_market.jpg"
+banner: "images/banner_sky.jpg"
 
 # Content
 excerpt_link: Read More

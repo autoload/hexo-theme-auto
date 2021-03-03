@@ -1,5 +1,5 @@
 # hexo-theme-auto
-<h3 align="center">A modern stylish theme for Hexo.</h3>
+<h3>A modern stylish theme for Hexo.</h3>
 
 
 ### [Preview](https://autoload.github.io)

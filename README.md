@@ -1,6 +1,18 @@
-# hexo-theme-auto
-<h3>A modern stylish theme for Hexo.</h3>
+<h1 align="center">Auto</h1>
+<p align="center"> 
+  Hexo-theme-auto - A modern stylish theme for Hexo
+</p>
 
+<p align="center">
+  <img alt="hexo" src="https://img.shields.io/badge/hexo-%3E=4.2.0-green.svg?style=flat&logo=hexo&longCache=true">
+  <img alt="node" src="https://img.shields.io/badge/node-%3E=10.9.0-green.svg?style=flat&logo=Node.js&longCache=true">
+  <img alt="license" src="https://img.shields.io/badge/license-MIT-green.svg?style=flat&longCache=true">
+</p>
+
+
+
+
+![cover](./img/cover-v1.png)
 
 ### [Preview](https://autoload.github.io)
 

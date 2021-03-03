@@ -12,7 +12,7 @@
 
 
 
-![cover](./img/cover-v1.png)
+![cover](./img/cover-v1.jpg)
 
 ### [Preview](https://autoload.github.io)
 

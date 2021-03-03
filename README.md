@@ -21,7 +21,7 @@
 ### For hexo < 5.0
 
 ``` shell
-git clone https://github.com/Shen-Yu/hexo-theme-auto.git themes/auto
+git clone https://github.com/autoload/hexo-theme-auto.git themes/auto
 ```
 
 ### For hexo >= 5.0

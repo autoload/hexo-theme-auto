@@ -12,7 +12,7 @@
 
 
 
-![cover](./screenshots/cover-v1.png)
+![cover](./screenshots/hexo-theme-auto.png)
 
 
 ### [Preview](https://autoload.github.io)

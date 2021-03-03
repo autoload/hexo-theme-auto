@@ -11,8 +11,9 @@
 
 
 
-
+<p align="center">
 ![cover](./screenshots/cover-v1.png)
+</p>
 
 ### [Preview](https://autoload.github.io)
 

@@ -79,6 +79,12 @@ widgets:
 
 <br/>
 
+## Version
+###[1.0.0]
+init all
+
+
+
 ## License
 
 MIT License

@@ -80,7 +80,7 @@ widgets:
 <br/>
 
 ## Version
-###[1.0.0]
+### [1.0.0]
 init all
 
 
